@@ -1,0 +1,76 @@
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: supsocial.com.br
+| Ip: 66.7.218.190 (n)
+| HasCgi: y
+| UserName: supsocialcom
+| PassWord: LrTn94FP)]ZP
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 300 MB
+| NameServer1: ns2442.dizinc.com
+| NameServer2: ns2443.dizinc.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: araguaci@gmail.com
+| Package: artesdos_Disk300MBand50
+| Feature List: default
+| Language: pt_br
++===================================+
+...Done
+Custom Account Data Provided: no
+Running pre creation script (/usr/local/cpanel/scripts/prewwwacct)...
+Ok
+...Done
+Adding User...
+Removing Shell Access (n)
+Success
+...Done
+Adding Entries to userdata...
+...Done
+Setting up Mail & Local Domains...
+localdomains...valiases ...vdomainaliases ...vfilters ...
+...Done
+Configuring DNS...
+Zone supsocial.com.br has been successfully added
+...Done
+Verifying MX Records and Setting up Databases...
+Reconfiguring Mail Routing:
+LOCAL MAIL EXCHANGER: This server will serve as a primary mail exchanger for supsocial.com.br's mail.:
+ This configuration has been automatically detected based on your mx entries.
+
+...Done
+Setting up Service Subdomains...
+...Done
+Bind reloading on rbr39 using rndc zone: [supsocial.com.br] Bind reloading on rbr39 using rndc zone: [supsocial.com.br]
+Updating Authentication Databases...
+...Done
+Setting passwords...
+...Done
+Updating the userdata cache...
+...Done
+Setting up Horde database in the background....
+...Done
+Creating bandwidth datastore...
+...Done
+Updating the dedicated IP address usage cache...
+...Done
+Generating and installing DKIM keys...
+...Done
+Enabling Apache SpamAssassin™...
+...Done
+Enabling Apache SpamAssassin™ Spam Box...
+...Done
+Sending Account Information...
+...Done
+Running post creation scripts (/usr/local/cpanel/scripts/legacypostwwwacct, /usr/local/cpanel/scripts/postwwwacct, /usr/local/cpanel/scripts/postwwwacctuser)...
+...Done
+wwwacct creation finished
+Setting up Domain Pointers...
+...Done
+Setting Reseller Privs...
+...Done
+Account Creation Complete!!!...
+Account Creation Ok
+...Done
