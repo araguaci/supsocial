@@ -33,4 +33,3 @@ Follow our day-to-day on instagram: [@floripasurfcluboficial](https://www.instag
   - BASE BEACH BARRA DA LAGOA
   - SEE LOCATION MAP
   - [360 VIEW BARRA DA LAGOA](http://www.floripasurfclub.com.br/barra-da-lagoa/)
-  - 
